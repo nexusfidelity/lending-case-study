@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 This Case Study aims to understand what factors are affecting why applicants are likely to default on their loans.
 
 
