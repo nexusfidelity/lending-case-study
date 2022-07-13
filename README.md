@@ -25,7 +25,5 @@ If the applicant has this factors:
 ## Acknowledgements
 - This project was inspired by https://www.lendingclub.com/
 
-
-
 ## Contact
 Created by [@nexusfidelity] - feel free to contact me!
